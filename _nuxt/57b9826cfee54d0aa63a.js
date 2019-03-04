@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{443:function(e,t,n){"use strict";n.r(t);var s={name:"resources",middleware:"authenticated"},i=n(1),r=Object(i.a)(s,function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("资源")])},[],!1,null,null,null);r.options.__file="resources.vue";t.default=r.exports}}]);

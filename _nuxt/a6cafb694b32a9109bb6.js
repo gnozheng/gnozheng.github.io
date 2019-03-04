@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{445:function(e,n,t){"use strict";t.r(n);var i={name:"home",fetch:function(e){(0,e.redirect)(301,"/articles/all")}},l=t(1),c=Object(l.a)(i,function(){var e=this.$createElement;return(this._self._c||e)("div")},[],!1,null,null,null);c.options.__file="index.vue";n.default=c.exports}}]);
